@@ -130,7 +130,7 @@ Founder and CEO, Largence Group Ltd
 Cambridge, England  
 June 2026
 
-Largence Group Ltd is an AI-powered legal document drafting and management platform. Company No. 16633893.
+Largence is an AI-powered legal document drafting and management platform.
 
 Affiliated with: LawtechUK Scaler Programme (MoJ-backed) · Barclays Eagle Labs · SuperTech WM LawTech Open Innovation Lab
 
@@ -144,4 +144,4 @@ This report may be cited with full attribution. It may not be reproduced in whol
 
 **Suggested citation:**
 
-> Oviasogie, T. (2026) *The Authorised Disruption: ABS, AI-Native Law Firms, and the Future of Legal Services in Europe*. Cambridge: Largence Group Ltd.
+> Oviasogie, T. (2026) *The Authorised Disruption: ABS, AI-Native Law Firms, and the Future of Legal Services in Europe*.
